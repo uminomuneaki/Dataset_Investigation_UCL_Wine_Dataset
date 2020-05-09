@@ -9,4 +9,4 @@ QUESTIONS\
 1 Is a certain type of wine (red or white) associated with higher quality?\
 2 What level of acidity (pH value) receives the highest average rating?\
 3 What level of alcohol receives the highest average rating?\
-4 What level of residual sugar receives the highest average rating?\
+4 What level of residual sugar receives the highest average rating?
