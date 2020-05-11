@@ -1,4 +1,4 @@
-Wine database analysis
+Wine dataset analysis
 
 Dataset is available at UCL
 https://archive.ics.uci.edu/ml/datasets/Wine+Quality
