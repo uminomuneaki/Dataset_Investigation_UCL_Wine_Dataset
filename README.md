@@ -1,6 +1,6 @@
 Wine dataset analysis
 
-Table of Contents
+Table of Contents:
 Introduction
 Part I - Data Cleaning
 Part II - Answering Questions
